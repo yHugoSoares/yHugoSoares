@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yhugosoares" alt="yhugosoares" /></a> </p>
 
-- 🔭 I’m currently working on **LI2**
+- 🔭 I’m currently working on **LI1/LI3**
 
 - 🌱 I’m currently learning **C/C++/C#/Java/JS**
 
