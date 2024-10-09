@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C/C++/C#/Java/JS**
 
-- 🤝 I’m looking for help with **LI2**
+- 🤝 I’m looking for help with **C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
