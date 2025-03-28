@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on LI1/LI3<br><br>    🌱 I’m currently learning C/C++/C#/Java/JS<br><br>    🤝 I’m looking for help with a mobile app I'm developing</p>
+<p align="left">🔭 I’m currently working on OOP/OS/DB<br><br>    🌱 I’m currently learning C/C++/C#/Java/JS<br><br>    🤝 I’m looking for help with a mobile app I'm developing</p>
 
 ###
 
